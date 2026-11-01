@@ -147,6 +147,30 @@ Text(0.5, 1.0, 'Histogram Equalized')
 - Histogram of enhanced image shows better intensity distribution  
 
 ---
+<img width="350" height="410" alt="exp3-1" src="https://github.com/user-attachments/assets/86110c07-9bce-4be5-87eb-91ba2d57efb6" />
+
+<img width="547" height="403" alt="exp-3 2" src="https://github.com/user-attachments/assets/5ed894e4-a638-446a-99b4-8e4597d72368" />
+
+<img width="540" height="412" alt="exp-3 3" src="https://github.com/user-attachments/assets/17359999-1fa6-43ed-8fbf-bbb1593105a8" />
+
+<img width="347" height="411" alt="exp-3 4" src="https://github.com/user-attachments/assets/5197e12a-66b8-4197-8483-ec94c6d9fb4c" />
+
+<img width="350" height="416" alt="exp-3 5" src="https://github.com/user-attachments/assets/3bc565f8-b6d6-4111-a5fc-567981d6044a" />
+
+<img width="515" height="411" alt="exp-3 6" src="https://github.com/user-attachments/assets/6dd48eea-afdd-4654-8fc7-341d41579547" />
+
+<img width="1017" height="315" alt="exp-3 8" src="https://github.com/user-attachments/assets/94316481-409a-4f98-93db-9475eedca004" />
+
+<img width="1017" height="357" alt="exp-3 7" src="https://github.com/user-attachments/assets/e3acd900-da48-4ae7-b135-273ec74d9406" />
+
+
+
+
+
+
+
+
+
 
 ## Result
 
