@@ -1,0 +1,2 @@
+# EXP-3-Record-Histogram-processing
+Explores image processing techniques using OpenCV, a powerful computer vision library in Python. Key objectives include reading and displaying images, adjusting brightness and contrast, and applying bitwise operations. By mastering pixel-level transformations, users gain essential skills for handling and enhancing digital images efficiently.
