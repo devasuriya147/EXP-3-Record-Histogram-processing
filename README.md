@@ -104,6 +104,8 @@ Text(0.5, 1.0, 'Equalized Histogram')
 ```
 
 <img width="540" height="412" alt="image" src="https://github.com/user-attachments/assets/7fa59694-b9a4-4c11-979c-00237e63a898" />
+
+
 ```
 plt.imshow(img_eq, cmap='gray')
 plt.title('Original Image')
@@ -143,7 +145,7 @@ Text(0.5, 1.0, 'Histogram Equalized')
 <img width="1017" height="315" alt="image" src="https://github.com/user-attachments/assets/17d45730-ad9d-4601-abf8-098455314d63" />
 
 
-```
+
 
 
 ---
